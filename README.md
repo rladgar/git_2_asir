@@ -12,10 +12,10 @@ sudo nano 1.txt
 git tag -a v0.1 -m "Versión v0.1"
 git tag
 git push origin v0.1
-| NOMBRE | GITHUB     |
-| -------| ---------- |
-| David  | Davalomal  |
-| Adrian | areyjim770 |
-| Nacho  | jrodrob861 |
-| Mario  | Mromvar767 |
-| Fran   | fgrasan342 | 
+| NOMBRE | GITHUB      |
+| -------| ----------  |
+| David  | [Davalomal](https://github.com/Davalomal)   |
+| Adrian | [areyjim770](https://github.com/areyjim770) |
+| Nacho  | [jrodrob861](https://github.com/jrodrob861) |
+| Mario  | [Mromvar767](https://github.com/Mromvar767) |
+| Fran   | [fgrasan342](https://github.com/fgrasan342) | 
