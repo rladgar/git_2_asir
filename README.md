@@ -19,3 +19,4 @@ git push origin v0.1
 | Nacho  | [jrodrob861](https://github.com/jrodrob861) |
 | Mario  | [Mromvar767](https://github.com/Mromvar767) |
 | Fran   | [fgrasan342](https://github.com/fgrasan342) | 
+| Davalomal | [Davalomal-2](https://github.com/Davalomal/Git_2_asir) |
