@@ -1,1 +1,2 @@
-| Raúl | [rladgar](https://github.com/rladgar)
+| Nombre | GITHUB
+| Raúl   | [rladgar](https://github.com/rladgar)
